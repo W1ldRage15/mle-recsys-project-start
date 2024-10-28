@@ -59,6 +59,10 @@ jupyter lab --ip=0.0.0.0 --no-browser
 
 Код для выполнения первой части проекта находится в файле `recommendations.ipynb`. Изначально, это шаблон. Используйте его для выполнения первой части проекта.
 
+# Результат  
+Ссылка на проект: https://github.com/W1ldRage15/mle-recsys-project-start.git  
+S3_BUCKET_NAME:s3-student-mle-20240729-52fe31e1ec
+
 # Сервис рекомендаций
 
 Код сервиса рекомендаций находится в файле `recommendations_service.py`.
